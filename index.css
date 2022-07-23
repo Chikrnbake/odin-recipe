@@ -12,8 +12,8 @@ p {
     font-weight: 900;
     color: rgb(0, 136, 255);
     text-align: center;
-    
   }
+
   a:link { text-decoration: none; }
   a:visited { text-decoration: none; 
     color: cyan;}
@@ -21,6 +21,8 @@ p {
     color: navajowhite;}
   a:active { text-decoration: none; }
   
+
+
 body {
     background-color: #dc1454;
     display: grid;
